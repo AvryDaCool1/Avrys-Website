@@ -67,9 +67,9 @@ ul li a{
 ul li a:hover{
     color: cornflowerblue;
 }
-    
-}
 
+}
+   
 }
 
 .btn{
@@ -87,10 +87,6 @@ ul li a:hover{
 .btn:focus{
     outline: none;
 }
-
-.srch:focus{
-    outline: none;
-    }
 
 .content{
     width: 1200px;
@@ -119,7 +115,7 @@ ul li a:hover{
     letter-spacing: 2px;
 }
 
-.content .gh{
+.content .cn{
     width: 160px;
     height: 40px;
     background: cornflowerblue;
@@ -132,13 +128,13 @@ ul li a:hover{
     transition: .4s ease;
 }
 
-.content .gh a{
+.content .cn a{
     text-decoration: none;
     color: black;
     transition: .3s ease;
 }
 
-.gh:hover{
+.cn:hover{
     background-color: white;
 }
 
