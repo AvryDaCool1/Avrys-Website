@@ -5,7 +5,7 @@
 
 .main{
     width: 100%;
-    background: linear-gradient(to top, rgba(0,0,0,0.5)50%,rgb(0, 0, 0, 0.5)50%), url(/AvryDaCool1/avrysartshow.github.io/blob/main/website%20background.png?raw=true)
+    background: linear-gradient(to top, rgba(0,0,0,0.5)50%,rgb(0, 0, 0, 0.5)50%), url('/AvryDaCool1/avrysartshow.github.io/blob/main/website%20background.png?raw=true')
     background-size: cover;
     height: 109vh;
 }
